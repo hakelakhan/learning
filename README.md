@@ -1,4 +1,4 @@
-# Data-Structures-Problems
+# Learning
 Implementation of commonly used  datastructures and their application in problem solving
 
 My Profile Links
